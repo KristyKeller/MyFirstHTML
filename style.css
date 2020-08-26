@@ -1,0 +1,18 @@
+body { 
+    background-color: #efeee7; 
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #333333;
+}
+
+h1 {
+    background-color: #333333;
+    color: #eee;
+    font-size: 28px;
+    text-align: center;
+}
+
+#main-bio, #contact-info, #bio-image {
+    float: left;
+}
+
+
